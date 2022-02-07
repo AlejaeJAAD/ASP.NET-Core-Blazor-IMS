@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7341013b-db3d-4efe-9898-db4de580590d": {
+      "ProjectGuid": "7341013b-db3d-4efe-9898-db4de580590d",
+      "DisplayName": "IMS.WebApp",
+      "ColorIndex": 0
+    },
+    "77033971-8229-4f98-90a7-634f75cfebd5": {
+      "ProjectGuid": "77033971-8229-4f98-90a7-634f75cfebd5",
+      "DisplayName": "IMS.UseCases",
+      "ColorIndex": 1
+    },
+    "a5ebf151-c3e0-4d56-bdd6-302e17e44f90": {
+      "ProjectGuid": "a5ebf151-c3e0-4d56-bdd6-302e17e44f90",
+      "DisplayName": "IMS.UseCases",
+      "ColorIndex": 2
+    },
+    "1dea4fe8-a9c5-4efd-bac2-915dc27e5b11": {
+      "ProjectGuid": "1dea4fe8-a9c5-4efd-bac2-915dc27e5b11",
+      "DisplayName": "IMS.CoreBusiness",
+      "ColorIndex": 3
+    },
+    "3ae00aae-36d8-410f-9524-db55b344947b": {
+      "ProjectGuid": "3ae00aae-36d8-410f-9524-db55b344947b",
+      "DisplayName": "IMS.Plugins.EFCore",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
