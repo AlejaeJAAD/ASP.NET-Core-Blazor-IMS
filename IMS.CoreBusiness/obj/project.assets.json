@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
       "projectName": "IMS.CoreBusiness",
-      "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+      "projectPath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\obj\\",
+      "outputPath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",

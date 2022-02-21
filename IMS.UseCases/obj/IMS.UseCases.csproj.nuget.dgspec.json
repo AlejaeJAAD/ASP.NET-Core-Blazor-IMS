@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {}
+    "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.UseCases\\IMS.UseCases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectPath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\obj\\",
+        "outputPath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+    "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "projectName": "IMS.UseCases",
-        "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectPath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.UseCases\\obj\\",
+        "outputPath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               }
             }
           }

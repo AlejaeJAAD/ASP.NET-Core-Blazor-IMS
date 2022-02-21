@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "ghTPXznpim6ac8V19nqKHIK4TdcGLSwVcNz7PbU0I48iwebxroZmi6ScmobFcgrAIIEOWTkLbO76YwUAhskIPw==",
+  "dgSpecHash": "dITyPT7d2jgQAP8rDLnSnAK+FXmdX33yuWuQJRdOqeEkdw8uftnqOQZOmpIaTwvUsOauS3rAmB49RP79pMOflg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Nueva carpeta (2)\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aleja\\Documents\\GITHUB\\ASP.NET-Core-Blazor-IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.memory.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.1.22076.8\\microsoft.extensions.logging.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.logging.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.1.22076.8\\microsoft.extensions.options.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.1.22076.8\\microsoft.extensions.primitives.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.collections.immutable\\7.0.0-preview.1.22076.8\\system.collections.immutable.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0-preview.1.22076.8\\system.diagnostics.diagnosticsource.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.1.22076.8\\system.runtime.compilerservices.unsafe.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
   "logs": []
 }
